@@ -59,4 +59,6 @@ Unlock the power of context-aware AI translation in 100+ languages without sacri
 
 Transform any book or file into a naturally translated, perfectly formatted masterpiece. Share your words with the world in over 100 languages, confident that every nuance is captured. All with the power of advanced LLMs at your fingertips.
 
+We value your feedback and are here to help! Feel free to contact us anytime at zhangkuan523@gmail.com for support, suggestions, or any questions you may have.
+
 Book Translator: Powered by AI – Where Large Language Models meet literature, 100+ languages unite with context, and formatting stays perfect!
